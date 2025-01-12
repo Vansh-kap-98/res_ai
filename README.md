@@ -87,22 +87,6 @@ pymysql==1.1.0
 
 ---
 
-## File Structure
-
-```
-resume-screening-ai/
-|-- app.py               # Main Flask application
-|-- setup.sql            # SQL script to create database tables
-|-- templates/
-|   |-- index.html       # HTML template for the web interface
-|-- static/
-|   |-- style.css        # CSS file for styling (optional)
-|-- requirements.txt     # Python dependencies
-|-- README.md            # Project documentation
-```
-
----
-
 ## Future Enhancements
 
 - **File Uploads**: Allow users to upload resumes and job descriptions as files (PDF/Word).
