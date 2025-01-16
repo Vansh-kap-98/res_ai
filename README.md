@@ -29,8 +29,6 @@ Resume Screening AI is a Python-based application that leverages Natural Languag
 - Python 3.7+
 - MySQL Server
 - Required Python packages -
-flask==2.3.2
-flask_sqlalchemy==3.0.5
 pandas==2.0.3
 scikit-learn==1.3.2
 nltk==3.8.1
